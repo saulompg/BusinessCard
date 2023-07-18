@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">business-card</string>
+    <string name="name">Saulo Gomes</string>
+    <string name="title">Desenvolvedor Mobile</string>
+    <string name="phone">(74) 98114–9359</string>
+    <string name="id">\@saulompg</string>
+    <string name="mail">saulo.gomes@ufba.br</string>
+</resources>
